@@ -6,6 +6,12 @@ Built on LibGDX
 ### Planned Features
 - World:
   - You have to defend the core of the world, which is what keeps your world alive. Defend it with turrets from the invading enemies, which spawn at regular intervals
+  - Lots of different biomes with different resources in each, and different themes
+    - Jungles
+    - Icy Forests
+    - Deserts
+    - Flower Fields
+    - Volcano
   - Resources:
     - Copper (most basic)
     - Iron (mined)
